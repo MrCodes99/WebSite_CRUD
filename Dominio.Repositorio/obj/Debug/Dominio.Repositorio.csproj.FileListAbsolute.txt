@@ -1,0 +1,9 @@
+C:\Users\MICHELL\Documents\5to CICLO\DSWI\sesiones_DSWI\EL3_repaso_Website\Dominio.Repositorio\bin\Debug\Dominio.Repositorio.dll
+C:\Users\MICHELL\Documents\5to CICLO\DSWI\sesiones_DSWI\EL3_repaso_Website\Dominio.Repositorio\bin\Debug\Dominio.Repositorio.pdb
+C:\Users\MICHELL\Documents\5to CICLO\DSWI\sesiones_DSWI\EL3_repaso_Website\Dominio.Repositorio\bin\Debug\Dominio.Entidades.dll
+C:\Users\MICHELL\Documents\5to CICLO\DSWI\sesiones_DSWI\EL3_repaso_Website\Dominio.Repositorio\bin\Debug\Infraestructura.Data.dll
+C:\Users\MICHELL\Documents\5to CICLO\DSWI\sesiones_DSWI\EL3_repaso_Website\Dominio.Repositorio\bin\Debug\Dominio.Entidades.pdb
+C:\Users\MICHELL\Documents\5to CICLO\DSWI\sesiones_DSWI\EL3_repaso_Website\Dominio.Repositorio\bin\Debug\Infraestructura.Data.pdb
+C:\Users\MICHELL\Documents\5to CICLO\DSWI\sesiones_DSWI\EL3_repaso_Website\Dominio.Repositorio\obj\Debug\Dominio.Repositorio.csprojResolveAssemblyReference.cache
+C:\Users\MICHELL\Documents\5to CICLO\DSWI\sesiones_DSWI\EL3_repaso_Website\Dominio.Repositorio\obj\Debug\Dominio.Repositorio.dll
+C:\Users\MICHELL\Documents\5to CICLO\DSWI\sesiones_DSWI\EL3_repaso_Website\Dominio.Repositorio\obj\Debug\Dominio.Repositorio.pdb

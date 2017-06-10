@@ -1,0 +1,5 @@
+C:\Users\MICHELL\Documents\5to CICLO\DSWI\sesiones_DSWI\EL3_repaso_Website\Dominio.Entidades\bin\Debug\Dominio.Entidades.dll
+C:\Users\MICHELL\Documents\5to CICLO\DSWI\sesiones_DSWI\EL3_repaso_Website\Dominio.Entidades\bin\Debug\Dominio.Entidades.pdb
+C:\Users\MICHELL\Documents\5to CICLO\DSWI\sesiones_DSWI\EL3_repaso_Website\Dominio.Entidades\obj\Debug\Dominio.Entidades.csprojResolveAssemblyReference.cache
+C:\Users\MICHELL\Documents\5to CICLO\DSWI\sesiones_DSWI\EL3_repaso_Website\Dominio.Entidades\obj\Debug\Dominio.Entidades.dll
+C:\Users\MICHELL\Documents\5to CICLO\DSWI\sesiones_DSWI\EL3_repaso_Website\Dominio.Entidades\obj\Debug\Dominio.Entidades.pdb
